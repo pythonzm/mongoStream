@@ -23,3 +23,6 @@ Usage of mongoStream:
 * -src-mongo-uri 指定数据源mongo
 * -dest-mongo-uri 指定中间库
 * -data-mongo-uri 指定存储变更数据的mongo
+
+### 效果
+![image](https://github.com/pythonzm/mongoStream/blob/master/screenshots/record.png)
