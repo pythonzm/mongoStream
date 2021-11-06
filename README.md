@@ -1,6 +1,8 @@
 # mongoStream
 跟踪mongo数据变化
 
+#### 使用前提：需要将源mongo库的数据同步至中间库一份
+
 ```bash
 $ go mod
 $ go build
